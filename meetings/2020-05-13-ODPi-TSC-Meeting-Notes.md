@@ -5,7 +5,6 @@
 * Mandy Chessell
 * John Mertic
 * Cupid Chan
-* Arun Nair
 * Maryna Strelchuk
 * Andre de Waal
 
